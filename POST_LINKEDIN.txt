@@ -1,0 +1,22 @@
+De un CBCT a una guía quirúrgica para ortodoncia, solo con software abierto 🦷
+
+Quise probar un flujo de trabajo digital completo con herramientas gratuitas: 3D Slicer y Blender.
+
+Así lo hice:
+
+1️⃣ 3D Slicer: segmenté la mandíbula a partir de un CBCT dental (umbral de hueso, crecimiento desde semillas y suavizado).
+2️⃣ Blender: limpié la malla, cerré huecos, apliqué suavizado Laplaciano y la optimicé, de 270 mil a 93 mil triángulos, sin perder la forma.
+3️⃣ De vuelta en 3D Slicer: diseñé una guía dentosoportada con un manguito de perforación de 2.2 mm para ubicar un mini-implante (TAD) en la zona posterior.
+
+El resultado es un archivo STL listo para impresión 3D, con todo el proceso reproducible y documentado.
+
+Qué me llevo:
+• Combinar herramientas especializadas da mejores resultados que usar una sola.
+• La calidad de la malla influye directamente en el ajuste de la guía.
+• Los flujos digitales hacen más predecible la planificación en ortodoncia.
+
+Aclaración: es un diseño demostrativo, hecho con un CBCT de muestra de 3D Slicer. Para uso clínico requiere validación, materiales biocompatibles y la supervisión de un especialista.
+
+Dejo el video completo y una versión corta del proceso. ¿Usas flujos digitales en tu práctica o investigación? Me interesa leer tu experiencia 👇
+
+#Ortodoncia #Impresion3D #3DSlicer #Blender #CBCT #IngenieríaBiomédica #SaludDigital #PlanificaciónQuirúrgica

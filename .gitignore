@@ -1,0 +1,14 @@
+_tmp/
+_exp/
+_exp_guia/
+*.npy
+*.log
+*.nrrd
+*.mrb
+dbg_*.png
+chk*.png
+mip_*.png
+m_*.png
+o_*.png
+ex_*.png
+__pycache__/
